@@ -16,5 +16,16 @@ namespace SISTEMA_ALMACEN
         {
             InitializeComponent();
         }
+
+        private void timTiempo_Tick(object sender, EventArgs e)
+        {
+            lblHora.Text = DateTime.Now.ToLongTimeString();
+            lblFecha.Text = DateTime.Now.ToLongDateString();
+        }
+
+        private void FormPrincipal_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

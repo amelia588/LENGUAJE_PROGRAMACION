@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormPrincipal));
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.gestionDeProductoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -35,6 +36,9 @@
             this.entradasDeInventarioToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.salidasDeInventarioToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.movimientosDeInventarioToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.timTiempo = new System.Windows.Forms.Timer(this.components);
+            this.lblHora = new System.Windows.Forms.Label();
+            this.lblFecha = new System.Windows.Forms.Label();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -94,17 +98,45 @@
             this.movimientosDeInventarioToolStripMenuItem.Size = new System.Drawing.Size(215, 21);
             this.movimientosDeInventarioToolStripMenuItem.Text = " Movimientos de inventario";
             // 
+            // timTiempo
+            // 
+            this.timTiempo.Tick += new System.EventHandler(this.timTiempo_Tick);
+            // 
+            // lblHora
+            // 
+            this.lblHora.AutoSize = true;
+            this.lblHora.Font = new System.Drawing.Font("Century Gothic", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblHora.Location = new System.Drawing.Point(398, 146);
+            this.lblHora.Name = "lblHora";
+            this.lblHora.Size = new System.Drawing.Size(172, 32);
+            this.lblHora.TabIndex = 1;
+            this.lblHora.Text = "4:08:00 p.m.";
+            // 
+            // lblFecha
+            // 
+            this.lblFecha.AutoSize = true;
+            this.lblFecha.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblFecha.ForeColor = System.Drawing.Color.Cyan;
+            this.lblFecha.Location = new System.Drawing.Point(425, 201);
+            this.lblFecha.Name = "lblFecha";
+            this.lblFecha.Size = new System.Drawing.Size(88, 24);
+            this.lblFecha.TabIndex = 2;
+            this.lblFecha.Text = "24/03/24";
+            // 
             // FormPrincipal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(255)))));
             this.ClientSize = new System.Drawing.Size(908, 450);
+            this.Controls.Add(this.lblFecha);
+            this.Controls.Add(this.lblHora);
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "FormPrincipal";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Sistema de almacen";
+            this.Load += new System.EventHandler(this.FormPrincipal_Load);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);
@@ -120,6 +152,9 @@
         private System.Windows.Forms.ToolStripMenuItem entradasDeInventarioToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem salidasDeInventarioToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem movimientosDeInventarioToolStripMenuItem;
+        private System.Windows.Forms.Timer timTiempo;
+        private System.Windows.Forms.Label lblHora;
+        private System.Windows.Forms.Label lblFecha;
     }
 }
 

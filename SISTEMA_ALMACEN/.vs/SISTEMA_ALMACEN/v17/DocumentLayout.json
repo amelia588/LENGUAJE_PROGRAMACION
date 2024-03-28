@@ -3,7 +3,35 @@
   "WorkspaceRootPath": "C:\\LENGUAJE\\SISTEMA_ALMACEN\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7DC10273-E542-4698-9105-AE702A3F0610}|SISTEMA_ALMACEN\\SISTEMA_ALMACEN.csproj|c:\\lenguaje\\sistema_almacen\\sistema_almacen\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{76F4AD48-0169-4D11-8999-9B316F5A7A9D}|DOMINIOS\\DOMINIOS.csproj|c:\\lenguaje\\sistema_almacen\\dominios\\cdo_procedimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76F4AD48-0169-4D11-8999-9B316F5A7A9D}|DOMINIOS\\DOMINIOS.csproj|solutionrelative:dominios\\cdo_procedimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DC10273-E542-4698-9105-AE702A3F0610}|SISTEMA_ALMACEN\\SISTEMA_ALMACEN.csproj|c:\\lenguaje\\sistema_almacen\\sistema_almacen\\formprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DC10273-E542-4698-9105-AE702A3F0610}|SISTEMA_ALMACEN\\SISTEMA_ALMACEN.csproj|solutionrelative:sistema_almacen\\formprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DC10273-E542-4698-9105-AE702A3F0610}|SISTEMA_ALMACEN\\SISTEMA_ALMACEN.csproj|C:\\LENGUAJE\\SISTEMA_ALMACEN\\sistema_almacen\\formbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7DC10273-E542-4698-9105-AE702A3F0610}|SISTEMA_ALMACEN\\SISTEMA_ALMACEN.csproj|solutionrelative:sistema_almacen\\formbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF4CD60F-628E-4457-86EF-2563D4F49DE0}|CAPA_DATOS\\CAPA_DATOS.csproj|C:\\LENGUAJE\\SISTEMA_ALMACEN\\capa_datos\\cd_conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF4CD60F-628E-4457-86EF-2563D4F49DE0}|CAPA_DATOS\\CAPA_DATOS.csproj|solutionrelative:capa_datos\\cd_conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF4CD60F-628E-4457-86EF-2563D4F49DE0}|CAPA_DATOS\\CAPA_DATOS.csproj|C:\\LENGUAJE\\SISTEMA_ALMACEN\\capa_datos\\cd_procedimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF4CD60F-628E-4457-86EF-2563D4F49DE0}|CAPA_DATOS\\CAPA_DATOS.csproj|solutionrelative:capa_datos\\cd_procedimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A65066B9-473F-415B-80AA-3AAE26901FD9}|INDENTIDAD\\INDENTIDAD.csproj|C:\\LENGUAJE\\SISTEMA_ALMACEN\\indentidad\\clase1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A65066B9-473F-415B-80AA-3AAE26901FD9}|INDENTIDAD\\INDENTIDAD.csproj|solutionrelative:indentidad\\clase1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DC10273-E542-4698-9105-AE702A3F0610}|SISTEMA_ALMACEN\\SISTEMA_ALMACEN.csproj|C:\\LENGUAJE\\SISTEMA_ALMACEN\\sistema_almacen\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DC10273-E542-4698-9105-AE702A3F0610}|SISTEMA_ALMACEN\\SISTEMA_ALMACEN.csproj|solutionrelative:sistema_almacen\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DC10273-E542-4698-9105-AE702A3F0610}|SISTEMA_ALMACEN\\SISTEMA_ALMACEN.csproj|C:\\LENGUAJE\\SISTEMA_ALMACEN\\sistema_almacen\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7DC10273-E542-4698-9105-AE702A3F0610}|SISTEMA_ALMACEN\\SISTEMA_ALMACEN.csproj|solutionrelative:sistema_almacen\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -14,11 +42,101 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormPrincipal.Designer.cs",
+              "DocumentMoniker": "C:\\LENGUAJE\\SISTEMA_ALMACEN\\SISTEMA_ALMACEN\\FormPrincipal.Designer.cs",
+              "RelativeDocumentMoniker": "SISTEMA_ALMACEN\\FormPrincipal.Designer.cs",
+              "ToolTip": "C:\\LENGUAJE\\SISTEMA_ALMACEN\\SISTEMA_ALMACEN\\FormPrincipal.Designer.cs",
+              "RelativeToolTip": "SISTEMA_ALMACEN\\FormPrincipal.Designer.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T21:01:52.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormBase.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\LENGUAJE\\SISTEMA_ALMACEN\\SISTEMA_ALMACEN\\FormBase.cs",
+              "RelativeDocumentMoniker": "SISTEMA_ALMACEN\\FormBase.cs",
+              "ToolTip": "C:\\LENGUAJE\\SISTEMA_ALMACEN\\SISTEMA_ALMACEN\\FormBase.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SISTEMA_ALMACEN\\FormBase.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T02:56:33.271Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CDo_procedimiento.cs",
+              "DocumentMoniker": "C:\\LENGUAJE\\SISTEMA_ALMACEN\\DOMINIOS\\CDo_procedimiento.cs",
+              "RelativeDocumentMoniker": "DOMINIOS\\CDo_procedimiento.cs",
+              "ToolTip": "C:\\LENGUAJE\\SISTEMA_ALMACEN\\DOMINIOS\\CDo_procedimiento.cs",
+              "RelativeToolTip": "DOMINIOS\\CDo_procedimiento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T02:46:01.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Clase1.cs",
+              "DocumentMoniker": "C:\\LENGUAJE\\SISTEMA_ALMACEN\\INDENTIDAD\\Clase1.cs",
+              "RelativeDocumentMoniker": "INDENTIDAD\\Clase1.cs",
+              "ToolTip": "C:\\LENGUAJE\\SISTEMA_ALMACEN\\INDENTIDAD\\Clase1.cs",
+              "RelativeToolTip": "INDENTIDAD\\Clase1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T02:43:59.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CD_procedimiento.cs",
+              "DocumentMoniker": "C:\\LENGUAJE\\SISTEMA_ALMACEN\\CAPA_DATOS\\CD_procedimiento.cs",
+              "RelativeDocumentMoniker": "CAPA_DATOS\\CD_procedimiento.cs",
+              "ToolTip": "C:\\LENGUAJE\\SISTEMA_ALMACEN\\CAPA_DATOS\\CD_procedimiento.cs",
+              "RelativeToolTip": "CAPA_DATOS\\CD_procedimiento.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAcwBIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T00:26:37.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CD_conexion.cs",
+              "DocumentMoniker": "C:\\LENGUAJE\\SISTEMA_ALMACEN\\CAPA_DATOS\\CD_conexion.cs",
+              "RelativeDocumentMoniker": "CAPA_DATOS\\CD_conexion.cs",
+              "ToolTip": "C:\\LENGUAJE\\SISTEMA_ALMACEN\\CAPA_DATOS\\CD_conexion.cs",
+              "RelativeToolTip": "CAPA_DATOS\\CD_conexion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T00:07:25.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormPrincipal.cs",
+              "DocumentMoniker": "C:\\LENGUAJE\\SISTEMA_ALMACEN\\SISTEMA_ALMACEN\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "SISTEMA_ALMACEN\\FormPrincipal.cs",
+              "ToolTip": "C:\\LENGUAJE\\SISTEMA_ALMACEN\\SISTEMA_ALMACEN\\FormPrincipal.cs",
+              "RelativeToolTip": "SISTEMA_ALMACEN\\FormPrincipal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T20:58:27.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "FormPrincipal.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\LENGUAJE\\SISTEMA_ALMACEN\\SISTEMA_ALMACEN\\FormPrincipal.cs",
               "RelativeDocumentMoniker": "SISTEMA_ALMACEN\\FormPrincipal.cs",
