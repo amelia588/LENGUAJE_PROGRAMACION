@@ -39,6 +39,7 @@
             this.timTiempo = new System.Windows.Forms.Timer(this.components);
             this.lblHora = new System.Windows.Forms.Label();
             this.lblFecha = new System.Windows.Forms.Label();
+            this.productosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -60,11 +61,13 @@
             // 
             // gestionDeProductoToolStripMenuItem
             // 
+            this.gestionDeProductoToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.productosToolStripMenuItem});
             this.gestionDeProductoToolStripMenuItem.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.gestionDeProductoToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("gestionDeProductoToolStripMenuItem.Image")));
             this.gestionDeProductoToolStripMenuItem.Name = "gestionDeProductoToolStripMenuItem";
-            this.gestionDeProductoToolStripMenuItem.Size = new System.Drawing.Size(100, 21);
-            this.gestionDeProductoToolStripMenuItem.Text = "Producto";
+            this.gestionDeProductoToolStripMenuItem.Size = new System.Drawing.Size(106, 21);
+            this.gestionDeProductoToolStripMenuItem.Text = "Productos";
             // 
             // gestionDeProToolStripMenuItem
             // 
@@ -123,6 +126,14 @@
             this.lblFecha.TabIndex = 2;
             this.lblFecha.Text = "24/03/24";
             // 
+            // productosToolStripMenuItem
+            // 
+            this.productosToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("productosToolStripMenuItem.Image")));
+            this.productosToolStripMenuItem.Name = "productosToolStripMenuItem";
+            this.productosToolStripMenuItem.Size = new System.Drawing.Size(188, 22);
+            this.productosToolStripMenuItem.Text = "Producto";
+            this.productosToolStripMenuItem.Click += new System.EventHandler(this.productosToolStripMenuItem_Click);
+            // 
             // FormPrincipal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -155,6 +166,7 @@
         private System.Windows.Forms.Timer timTiempo;
         private System.Windows.Forms.Label lblHora;
         private System.Windows.Forms.Label lblFecha;
+        private System.Windows.Forms.ToolStripMenuItem productosToolStripMenuItem;
     }
 }
 

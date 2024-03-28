@@ -16,5 +16,27 @@ namespace SISTEMA_ALMACEN
         {
             InitializeComponent();
         }
+
+        private void btnCancelar_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        public virtual bool Guardar()
+        {
+            return false;
+        }
+        public virtual void Editar()
+        {
+
+        }
+        public virtual void Eliminar()
+        {
+
+        }
+        public virtual void Buscar()
+        {
+
+        }
     }
 }
