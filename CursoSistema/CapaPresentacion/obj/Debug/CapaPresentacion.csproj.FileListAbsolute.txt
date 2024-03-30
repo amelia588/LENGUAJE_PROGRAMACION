@@ -1,0 +1,13 @@
+C:\LENGUAJE\CursoSistema\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\LENGUAJE\CursoSistema\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\LENGUAJE\CursoSistema\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\LENGUAJE\CursoSistema\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\LENGUAJE\CursoSistema\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\LENGUAJE\CursoSistema\CapaPresentacion\obj\Debug\CapaPresentacion.inicio.resources
+C:\LENGUAJE\CursoSistema\CapaPresentacion\obj\Debug\CapaPresentacion.Logincs.resources
+C:\LENGUAJE\CursoSistema\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\LENGUAJE\CursoSistema\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\LENGUAJE\CursoSistema\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\LENGUAJE\CursoSistema\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\LENGUAJE\CursoSistema\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\LENGUAJE\CursoSistema\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
