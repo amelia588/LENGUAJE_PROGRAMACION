@@ -7,6 +7,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using CapaNegocio;
+using CapaEntidad;
 
 namespace CapaPresentacion
 {
@@ -24,10 +26,23 @@ namespace CapaPresentacion
 
         private void btnIngresar_Click(object sender, EventArgs e)
         {
-            inicio form = new inicio();
-            form.FormClosing += frm_closing; // Asociar el evento FormClosing
-            form.Show();
-            this.Hide();
+            List<USUARIO> TEST = new CN_USUARIO().Listar();
+
+            USUARIO oUSUARIO = new CN_USUARIO().Listar().Where(u => u.DOCUMENTO == txtDocumento.Text &&
+            u.CLAVE == txtClave.Text).FirstOrDefault();
+
+            if (oUSUARIO != null)
+            {
+                inicio form = new inicio();
+                form.FormClosing += frm_closing; // Asociar el evento FormClosing
+                form.Show();
+                this.Hide();
+            }
+            else
+            {
+                MessageBox.Show("No se encontro el usuario","Mensaje",MessageBoxButtons.OK,MessageBoxIcon.Exclamation);
+            }
+        
 
 
         }
