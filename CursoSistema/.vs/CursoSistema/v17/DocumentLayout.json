@@ -3,28 +3,20 @@
   "WorkspaceRootPath": "C:\\LENGUAJE\\CursoSistema\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9BE5B6B8-9512-4893-9BBE-E3D3E1992FD2}|CapaPresentacion\\CapaPresentacion.csproj|c:\\lenguaje\\cursosistema\\capapresentacion\\formreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9BE5B6B8-9512-4893-9BBE-E3D3E1992FD2}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\formreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE5B6B8-9512-4893-9BBE-E3D3E1992FD2}|CapaPresentacion\\CapaPresentacion.csproj|c:\\lenguaje\\cursosistema\\capapresentacion\\formusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9BE5B6B8-9512-4893-9BBE-E3D3E1992FD2}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\formusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE5B6B8-9512-4893-9BBE-E3D3E1992FD2}|CapaPresentacion\\CapaPresentacion.csproj|C:\\LENGUAJE\\CursoSistema\\capapresentacion\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE5B6B8-9512-4893-9BBE-E3D3E1992FD2}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9BE5B6B8-9512-4893-9BBE-E3D3E1992FD2}|CapaPresentacion\\CapaPresentacion.csproj|C:\\LENGUAJE\\CursoSistema\\capapresentacion\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9BE5B6B8-9512-4893-9BBE-E3D3E1992FD2}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9BE5B6B8-9512-4893-9BBE-E3D3E1992FD2}|CapaPresentacion\\CapaPresentacion.csproj|C:\\LENGUAJE\\CursoSistema\\capapresentacion\\logincs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9BE5B6B8-9512-4893-9BBE-E3D3E1992FD2}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\logincs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9BE5B6B8-9512-4893-9BBE-E3D3E1992FD2}|CapaPresentacion\\CapaPresentacion.csproj|C:\\LENGUAJE\\CursoSistema\\capapresentacion\\logincs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BE5B6B8-9512-4893-9BBE-E3D3E1992FD2}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\logincs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A77F3016-728E-40A4-82AB-47BD65D8D558}|CapaNegocio\\CapaNegocio.csproj|c:\\lenguaje\\cursosistema\\capanegocio\\cn_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A77F3016-728E-40A4-82AB-47BD65D8D558}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\cn_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FAB05014-4C4C-4F01-92E2-69ED5C2F123C}|CapaDatos\\CapaDatos.csproj|c:\\lenguaje\\cursosistema\\capadatos\\cd_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FAB05014-4C4C-4F01-92E2-69ED5C2F123C}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cd_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FAB05014-4C4C-4F01-92E2-69ED5C2F123C}|CapaDatos\\CapaDatos.csproj|c:\\lenguaje\\cursosistema\\capadatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FAB05014-4C4C-4F01-92E2-69ED5C2F123C}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,83 +26,54 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CN_USUARIO.cs",
-              "DocumentMoniker": "C:\\LENGUAJE\\CursoSistema\\CapaNegocio\\CN_USUARIO.cs",
-              "RelativeDocumentMoniker": "CapaNegocio\\CN_USUARIO.cs",
-              "ToolTip": "C:\\LENGUAJE\\CursoSistema\\CapaNegocio\\CN_USUARIO.cs",
-              "RelativeToolTip": "CapaNegocio\\CN_USUARIO.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAABYAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "FormReportes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\LENGUAJE\\CursoSistema\\CapaPresentacion\\FormReportes.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FormReportes.cs",
+              "ToolTip": "C:\\LENGUAJE\\CursoSistema\\CapaPresentacion\\FormReportes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\FormReportes.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T05:24:26.404Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CD_USUARIO.cs",
-              "DocumentMoniker": "C:\\LENGUAJE\\CursoSistema\\CapaDatos\\CD_USUARIO.cs",
-              "RelativeDocumentMoniker": "CapaDatos\\CD_USUARIO.cs",
-              "ToolTip": "C:\\LENGUAJE\\CursoSistema\\CapaDatos\\CD_USUARIO.cs",
-              "RelativeToolTip": "CapaDatos\\CD_USUARIO.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAgwA0AAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T04:03:11.949Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Conexion.cs",
-              "DocumentMoniker": "C:\\LENGUAJE\\CursoSistema\\CapaDatos\\Conexion.cs",
-              "RelativeDocumentMoniker": "CapaDatos\\Conexion.cs",
-              "ToolTip": "C:\\LENGUAJE\\CursoSistema\\CapaDatos\\Conexion.cs",
-              "RelativeToolTip": "CapaDatos\\Conexion.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T03:32:16.926Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Logincs.cs",
-              "DocumentMoniker": "C:\\LENGUAJE\\CursoSistema\\CapaPresentacion\\Logincs.cs",
-              "RelativeDocumentMoniker": "CapaPresentacion\\Logincs.cs",
-              "ToolTip": "C:\\LENGUAJE\\CursoSistema\\CapaPresentacion\\Logincs.cs",
-              "RelativeToolTip": "CapaPresentacion\\Logincs.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAxwCoAAAB3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-30T06:19:25.675Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Logincs.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\LENGUAJE\\CursoSistema\\CapaPresentacion\\Logincs.cs",
-              "RelativeDocumentMoniker": "CapaPresentacion\\Logincs.cs",
-              "ToolTip": "C:\\LENGUAJE\\CursoSistema\\CapaPresentacion\\Logincs.cs [Dise\u00F1o]",
-              "RelativeToolTip": "CapaPresentacion\\Logincs.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-30T05:09:59.098Z",
+              "WhenOpened": "2024-04-04T04:25:36.256Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "FormUsuario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\LENGUAJE\\CursoSistema\\CapaPresentacion\\FormUsuario.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FormUsuario.cs",
+              "ToolTip": "C:\\LENGUAJE\\CursoSistema\\CapaPresentacion\\FormUsuario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\FormUsuario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T03:50:25.317Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "inicio.cs",
+              "DocumentMoniker": "C:\\LENGUAJE\\CursoSistema\\CapaPresentacion\\inicio.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\inicio.cs",
+              "ToolTip": "C:\\LENGUAJE\\CursoSistema\\CapaPresentacion\\inicio.cs",
+              "RelativeToolTip": "CapaPresentacion\\inicio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T03:03:42.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "inicio.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\LENGUAJE\\CursoSistema\\CapaPresentacion\\inicio.cs",
               "RelativeDocumentMoniker": "CapaPresentacion\\inicio.cs",
               "ToolTip": "C:\\LENGUAJE\\CursoSistema\\CapaPresentacion\\inicio.cs [Dise\u00F1o]",
               "RelativeToolTip": "CapaPresentacion\\inicio.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-30T02:32:34.779Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-03-30T02:32:34.779Z"
             }
           ]
         }

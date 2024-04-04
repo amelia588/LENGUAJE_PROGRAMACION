@@ -11,3 +11,9 @@ C:\LENGUAJE\CursoSistema\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.Core
 C:\LENGUAJE\CursoSistema\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
 C:\LENGUAJE\CursoSistema\CapaPresentacion\obj\Debug\CapaPresentacion.exe
 C:\LENGUAJE\CursoSistema\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\LENGUAJE\CursoSistema\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\LENGUAJE\CursoSistema\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\LENGUAJE\CursoSistema\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\LENGUAJE\CursoSistema\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\LENGUAJE\CursoSistema\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\LENGUAJE\CursoSistema\CapaPresentacion\bin\Debug\CapaDatos.pdb

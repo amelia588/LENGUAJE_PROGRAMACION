@@ -41,7 +41,7 @@ namespace CapaDatos
                         }
                     }
                 }
-                catch(Exception ex)
+                catch(Exception) //borre la ex porque salia error al conectarse a base de datos
                 {
                     lista = new List<USUARIO>();
                 }

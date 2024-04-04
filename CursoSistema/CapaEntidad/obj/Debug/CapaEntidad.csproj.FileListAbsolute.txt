@@ -1,0 +1,6 @@
+C:\LENGUAJE\CursoSistema\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\LENGUAJE\CursoSistema\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\LENGUAJE\CursoSistema\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\LENGUAJE\CursoSistema\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\LENGUAJE\CursoSistema\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\LENGUAJE\CursoSistema\CapaEntidad\obj\Debug\CapaEntidad.pdb

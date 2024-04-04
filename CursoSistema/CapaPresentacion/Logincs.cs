@@ -33,7 +33,7 @@ namespace CapaPresentacion
 
             if (oUSUARIO != null)
             {
-                inicio form = new inicio();
+                inicio form = new inicio(oUSUARIO);
                 form.FormClosing += frm_closing; // Asociar el evento FormClosing
                 form.Show();
                 this.Hide();
